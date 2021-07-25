@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Twdavis85/Twdavis85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Tyler Davis
 
-Here are some ideas to get you started:
+<!-- **Twdavis85/Twdavis85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on earning a Full Stack Web Development Certificate from UNC Charlotte
+- 🌱 I’m currently learning new stuff everyday to help me reach my goal of becoming a Software Engineer
+- 💬 Ask me about anything I am always ready to learn something or teach something. 
+- 📫 How to reach me: tdnc85@yahoo.com
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+
